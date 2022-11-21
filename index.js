@@ -180,6 +180,6 @@ window.addEventListener('keyup', (event) => {
     }
     console.log(event.key);
 })
-//43 minutos e 55 segundos
+
 
 
